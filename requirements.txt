@@ -1,4 +1,4 @@
 flask
-flask_fontawesome
-flask_sqlalchemy
+Flask-FontAwesome
+flask-sqlalchemy
 gunicorn==20.1.0
