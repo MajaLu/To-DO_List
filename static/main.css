@@ -26,6 +26,7 @@ header p{
     margin: auto;
     position: relative;
     top: 250px;
+    z-index: 2;
 }
 .list-group-item{
     display: flex;
